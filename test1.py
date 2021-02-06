@@ -1,3 +1,4 @@
+#this code is developed by kushee kumar
 import random
 import math
 # Taking Inputs
